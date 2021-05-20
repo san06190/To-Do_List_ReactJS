@@ -1,5 +1,11 @@
-#TODO List ( Snapshot )
+# TODO List (Snapshot)
 ![image](https://user-images.githubusercontent.com/61514753/118995832-12bc3a00-b9a5-11eb-8309-33d7084bcd4d.png)
+Designed with Materialize CSS
+
+# How to Install
+ 🔸Open terminal 
+ 🔸Run npm install - It will install required dependencies
+ 🔸Run npm start - It will launch the Web App
 
 # Getting Started with Create React App
 
