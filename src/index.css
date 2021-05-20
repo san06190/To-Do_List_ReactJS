@@ -1,0 +1,7 @@
+body{
+  background: #b2dfdb;
+}
+.strike{
+  text-decoration: line-through;
+  color:#ef5350;
+}
